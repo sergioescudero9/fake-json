@@ -1,0 +1,99 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Freddie Mercury",
+      "listeners": "9,094",
+      "img": "https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/564db9bf5bafe8206239af92/frases-mercury_0.jpg",
+      "songs": [
+        {
+          "name": "Bohemian Rhapsody",
+          "img": "https://i.ytimg.com/vi/fJ9rUzIMcZQ/0.jpg",
+          "url": "https://www.youtube.com/watch?v=-2VPKWwl5Rw"
+        },
+        {
+          "name": "We Will Rock You",
+          "img": "http://www.stephenvilletheatrefestival.com/wp-content/uploads/2018/04/WWRY.jpg",
+          "url": "https://www.youtube.com/watch?v=Yfdo0OPszyw"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "listeners": "25,046,411",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Michael_Jackson_in_1988.jpg/245px-Michael_Jackson_in_1988.jpg",
+      "songs": [
+        {
+          "name": "Thriller",
+          "img": "https://m.media-amazon.com/images/M/MV5BODhhZjJlYTktZDQ2MS00Yzk4LWFlOTQtYTgyOGE1ZGE5YWEyL2ltYWdlXkEyXkFqcGdeQXVyMzA5MjgyMjI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "url": "https://www.youtube.com/watch?v=sOnqjkJTMaA"
+        },
+        {
+          "name": "Billie Jean",
+          "img": "https://images.rapgenius.com/9dee23c4d3d54e0abd4d4521cb001f9b.993x1000x1.jpg",
+          "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"
+        },
+        {
+          "name": "Beat It",
+          "img": "https://a.allegroimg.com/s512/03e643/4cdb4ed4427994fca64eca5d2d5a",
+          "url": "https://www.youtube.com/watch?v=oRdxUFDoQe0"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Daddy Yankee",
+      "listeners": "25,508,452",
+      "img": "https://www.marathi.tv/wp-content/uploads/2017/06/daddy-yankee-imagenes.jpg",
+      "songs": [
+        {
+          "name": "Shaky Shaky",
+          "img": "http://www.productocallejero.net/img/thumb_exm_400x400/daddy+yankee+-+shaky+shaky.jpg",
+          "url": "https://www.youtube.com/watch?v=aKuivabiOns"
+        },
+        {
+          "name": "Dura",
+          "img": "https://i.ytimg.com/vi/sGIm0-dQd8M/maxresdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sGIm0-dQd8M"
+        },
+        {
+          "name": "Despacito",
+          "img": "https://img.europapress.es/fotoweb/fotonoticia_20180112110447_640.jpg",
+          "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Eminem",
+      "listeners": "30,607,074",
+      "img": "https://akns-images.eonline.com/eol_images/Entire_Site/20171119/rs_600x600-171219083111-600.eminem.121917.jpg?fit=around|700:700&crop=700:700;center,top&output-quality=90",
+      "songs": [
+        {
+          "name": "Lose Yourself",
+          "img": "https://lastfm-img2.akamaized.net/i/u/770x0/95dffb1e2bd84b128cdd3929abbec870.jpg",
+          "url": "https://www.youtube.com/watch?v=_Yhyp-_hX2s"
+        },
+        {
+          "name": "Stan",
+          "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Eminem_-_Stan_CD_cover.jpg/220px-Eminem_-_Stan_CD_cover.jpg",
+          "url": "https://www.youtube.com/watch?v=H5jXCTn_BS8"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Silvestre Dangond",
+      "listeners": "2,200,051",
+      "img": "http://e-cdn-images.deezer.com/images/artist/248dda62ba29377dd96e2d17fea1341f/200x200-000000-80-0-0.jpg",
+      "songs": [
+        {
+          "name": "La Gringa",
+          "img": "https://i.ytimg.com/vi/X5nJXj1rPc8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=iJdEOImLJq0"
+        }
+      ]
+    }
+  ]
+}
